@@ -1,0 +1,22 @@
+{
+    "name": "mike-sources-light",
+    "displayName": "Mike Sources Light",
+    "description": "Colorful theme",
+    "version": "0.0.1",
+    "publisher": "mikesources-theme",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mike Sources Light",
+                "uiTheme": "vs",
+                "path": "./themes/Mike Sources Light-color-theme.json"
+            }
+        ]
+    }
+}
