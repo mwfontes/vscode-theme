@@ -3,7 +3,11 @@
     "displayName": "Mike Sources Light",
     "description": "Colorful theme",
     "version": "0.0.1",
-    "publisher": "mikesources-theme",
+    "publisher": "mikesources",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mwfontes/vscode-theme.git"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
