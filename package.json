@@ -16,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mike Sources Light",
+        "label": "Mike Sources Rainbow",
         "uiTheme": "vs",
         "path": "./themes/mike-sources-light-color-theme.json"
       },
@@ -24,6 +24,16 @@
         "label": "Mike Sources Yellowstone",
         "uiTheme": "vs",
         "path": "./themes/yellow-stone-color-theme.json"
+      },
+      {
+        "label": "Mike Sources Green CRT",
+        "uiTheme": "vs",
+        "path": "./themes/green-crt.json"
+      },
+      {
+        "label": "Mike Sources Hacker",
+        "uiTheme": "vs",
+        "path": "./themes/hacker.json"
       }
     ]
   }
