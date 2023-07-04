@@ -2,7 +2,7 @@
   "name": "mike-sources-pack",
   "displayName": "Mike Sources Theme Pack",
   "description": "Colorful themes for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "mikesources",
   "repository": {
     "type": "git",
